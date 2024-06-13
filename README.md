@@ -14,6 +14,7 @@ Anteriormente me desempeñe como SysAdmin Linux, Moodle Administrator.
 👨‍🎓 Analista Universitario en Sistemas
 
 ✨Especializaciones:
+
 🖥 Actualización Académica en Educación a Distancia e Innovación Educativa
 
 💻 Actualización Académica en Enseñanza de Educación Tecnológica con foco en programación
