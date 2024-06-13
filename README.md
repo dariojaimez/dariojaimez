@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Me llamo Ruben Dario Jaimez "dario" de preferencia y actualmente trabajo como Administrador de Sistemas y ademas soy Docente en nivel Secundario y Terciario 👨‍🏫. Me encanta la tecnología en general, por eso realizo diferentes cursos y me gusta aprender para estar actualizado con la tecnología en mi día a día.
+
+Ultimamente me estoy orientando mas hacia el Testing QA 💻
+
+
 <!--
 **dariojaimez/dariojaimez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Me llamo Ruben Dario Jaimez "dario" de preferencia y actualmente trabajo como Administrador de Sistemas y ademas soy Docente en nivel Secundario y Terciario. Me encanta la tecnología en general, por eso realizo diferentes cursos y me gusta aprender para estar con la tecnología en mi día a día.
