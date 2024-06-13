@@ -5,13 +5,14 @@ Soy una persona proactiva, empatico, buen compañero de equipo, organizado y res
 
 Ultimamente me estoy orientando mas hacia el Testing QA 💻
 
-Anteriormente me desempeñe como SysAdmin Linux, Moodle Administrator. 
+Anteriormente me desempeñe como SysAdmin Linux, Moodle Administrator, Admin Tenant MS O365. 
 
 ✨Mis titulos:
 
 👨‍🎓 Profesor en Disciplinas Industriales
 
 👨‍🎓 Analista Universitario en Sistemas
+
 
 ✨Especializaciones:
 
