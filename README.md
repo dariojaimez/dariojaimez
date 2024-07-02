@@ -4,6 +4,7 @@ Me llamo Ruben Dario Jaimez, "dario" de preferencia y actualmente trabajo como A
 Soy una persona proactiva, empatico, buen compañero de equipo, organizado y responsable. Disfruto mucho aprender cosas nuevas, por lo que me gusta compartir mi experiencia y a su vez sumar nuevos conocimientos de mis colegas.
 
 🚀 About Me
+
 Ultimamente me estoy orientando mas hacia el Testing QA 💻
 
 Anteriormente me desempeñe como SysAdmin Linux, Moodle Administrator, Admin Tenant MS O365. 
@@ -21,12 +22,15 @@ Anteriormente me desempeñe como SysAdmin Linux, Moodle Administrator, Admin Ten
 
 💻 Actualización Académica en Enseñanza de Educación Tecnológica con foco en programación  at INFoD Argentina.
 
+
 📚 Certificaciones
+
 
 
 
 📬 Get in Touch
 Connect with me on LinkedIn https://www.linkedin.com/in/ruben-dario-jaimez
+
 How to reach me: dariojaimez@gmail.com
 
 
